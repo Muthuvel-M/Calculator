@@ -8,7 +8,7 @@ Here is the simple calculator.
 
 
 
-You reach this calculator by this link -
+You reach this calculator by this link - https://urcalcui.netlify.app/
 
 
 
