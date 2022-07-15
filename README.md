@@ -23,6 +23,5 @@ Screenshot of this calculator is given below .
 
 
 
-![Screenshot (70)](https://user-images.githubusercontent.com/106426051/179255533-2f6afe36-5ccb-4146-8bd6-1af3be98551f.png)
 
- 
+![Screenshot 2022-07-15 211445](https://user-images.githubusercontent.com/106426051/179258249-ecb57dae-c59a-4920-9981-4b20c8559c5f.png)
