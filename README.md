@@ -8,8 +8,8 @@ Here is the simple calculator.
 
 
 
-You reach this calculator by this link - (https://thecalci.netlify.app)
-[https://urcalcui.netlify.app/]
+You reach this calculator by this link - https://thecalci.netlify.app
+
 
 
 
